@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 <hr />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShqiW&show_icons=true&locale=en&layout=compact" alt="chiewhui1113" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shqiw&show_icons=true&locale=en" alt="chiewhui1113" /></p>
+
+<hr />
 
 <h3 align="left">Languages and Tools:</h4>
 
