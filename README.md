@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h4>
 
+
 <!-- Programming Languages -->
 <h4>Programming Languages</h4>
 <p align="left">
